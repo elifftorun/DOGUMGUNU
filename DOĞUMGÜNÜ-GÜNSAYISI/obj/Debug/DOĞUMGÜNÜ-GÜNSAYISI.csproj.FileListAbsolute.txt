@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\bin\Debug\DOĞUMGÜNÜ-GÜNSAYISI.exe.config
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\bin\Debug\DOĞUMGÜNÜ-GÜNSAYISI.exe
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\bin\Debug\DOĞUMGÜNÜ-GÜNSAYISI.pdb
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ-GÜNSAYISI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ-GÜNSAYISI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ_GÜNSAYISI.Form1.resources
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ_GÜNSAYISI.Properties.Resources.resources
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ-GÜNSAYISI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ-GÜNSAYISI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ-GÜNSAYISI.exe
+C:\Users\User\source\repos\DOĞUMGÜNÜ-GÜNSAYISI\DOĞUMGÜNÜ-GÜNSAYISI\obj\Debug\DOĞUMGÜNÜ-GÜNSAYISI.pdb
